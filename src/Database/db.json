@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "name": "Virat Kohli",
+      "username": "cheeku",
+      "email": "virat@gmail.com",
+      "phone": "7845129865",
+      "id": 2
+    },
+    {
+      "name": "A B de villiers",
+      "username": "mr.360 (peska)",
+      "email": "abd@gmial.com",
+      "phone": "8527419635",
+      "id": 3
+    },
+    {
+      "name": "M S Dhonu",
+      "username": "Captain Cool",
+      "email": "dhoni@gmail.com",
+      "phone": "8541639515",
+      "id": 4
+    },
+    {
+      "name": "king peska",
+      "username": "peska",
+      "email": "peska@gmai.com",
+      "phone": "7539512584",
+      "id": 5
+    }
+  ]
+}
